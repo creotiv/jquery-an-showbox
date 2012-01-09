@@ -20,7 +20,7 @@ Add photos to page
     <div id="photos1"> 
     <ul>
     <li><a href="https://lh3.googleusercontent.com/-NBDCrqZdhSI/Tvt2WbpWeJI/AAAAAAAAB08/gP9cpwWm1E0/s720/IMG_6157.jpg">
-    <img src="https://lh3.googleusercontent.com/-NBDCrqZdhSI/Tvt2WbpWeJI/AAAAAAAAB08/gP9cpwWm1E0/s720/IMG_6157.jpg/../../w432-h288/"></a></li>
+    <img src="https://lh3.googleusercontent.com/-NBDCrqZdhSI/Tvt2WbpWeJI/AAAAAAAAB08/gP9cpwWm1E0/s720/IMG_6157.jpg/../../w432-h288/" width="182" height="121"></a></li>
     <li><a href="https://lh4.googleusercontent.com/-61NM8HIQT4A/Tvt2RgViAJI/AAAAAAAAB1M/jOtAbdd2T6Q/s720/IMG_6128.jpg">
     <img src="https://lh4.googleusercontent.com/-61NM8HIQT4A/Tvt2RgViAJI/AAAAAAAAB1M/jOtAbdd2T6Q/s720/IMG_6128.jpg/../../w432-h288/" width="182" height="121"></a></li>
     <li><a href="https://lh6.googleusercontent.com/-O2Pb-J8tq2w/Tvt1Y8-jT-I/AAAAAAAAB1I/zPYcgGlrUIs/s720/IMG_6125.jpg">
