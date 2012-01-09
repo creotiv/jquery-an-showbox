@@ -1,5 +1,5 @@
 =============================================================
-      jQuery photo wall gallery plugin (like at google)
+      jQuery ShowBox plugin
 =============================================================
 
 How to use
@@ -10,7 +10,7 @@ Add three lines to the HEAD:
 ::
 
     <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script> 
-    <script type="text/javascript" src="jquery-an.showbox.js"></script> 
+    <script type="text/javascript" src="jquery-an-showbox.js"></script> 
     <link rel="stylesheet" type="text/css" href="jquery-an-showbox.css">
 
 Add photos to page
